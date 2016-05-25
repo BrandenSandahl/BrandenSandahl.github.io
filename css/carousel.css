@@ -72,7 +72,10 @@ body {
 .marketing h2 {
   font-weight: normal;
 }
-
+/*.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}*/
 
 
 /* Featurettes
